@@ -1,0 +1,175 @@
+Plane
+P 0 -3 0
+N 0 1 0
+M
+hasTexture false
+kD 0.2 0.8 0.2 1.0
+kA 0.1 0.4 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Plane
+Plane
+P 0 1000 0
+N 0 1 0
+M
+hasTexture false
+kD 0.3 0.6 0.95 1.0
+kA 0.3 0.6 0.95 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Plane
+
+
+Sphere
+Center 0 -1 -20
+Radius 3
+M
+hasTexture false
+kD 0.9 0.9 0.9 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 -0.9528 -19.9
+Radius 2.89
+M
+hasTexture false
+kD 0.0 0.0 0.0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 -1.014 -19.8802
+Radius 2.88
+M
+hasTexture false
+kD 0.0 0.0 0.0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+
+Sphere
+Center 0 3 -20
+Radius 2.25
+M
+hasTexture false
+kD 0.9 0.9 0.9 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 2.98 -19.947
+Radius 2.1938
+M
+hasTexture false
+kD 0.0 0.0 0.0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 3.02 -19.947
+Radius 2.1938
+M
+hasTexture false
+kD 0.0 0.0 0.0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 6.25 -20
+Radius 1.5
+M
+hasTexture false
+kD 0.9 0.9 0.9 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 6.2 -18.5
+Radius .4
+M
+hasTexture false
+kD 1.0 0.6 0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center 0 6.2 -18.1
+Radius .2
+M
+hasTexture false
+kD 1.0 0.6 0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center .075 6.245 -19.85
+Radius 1.3328
+M
+hasTexture false
+kD 0 0 0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+Sphere
+Center -.075 6.245 -19.85
+Radius 1.3328
+M
+hasTexture false
+kD 0 0 0 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+
+
+Light
+Type 1
+Position 3 8 -15
+iA 1.0 1.0 1.0 1.0
+iD 0.5 0.5 0.5 0.5
+iS 1.0 1.0 1.0 1.0
+~Light
+
+
+
+Light
+Type 1
+Position -3 10 -5
+iA 1.0 1.0 1.0 1.0
+iD 0.5 0.5 0.5 0.5
+iS 1.0 1.0 1.0 1.0
+~Light

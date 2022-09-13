@@ -1,0 +1,1 @@
+Camera.o: Camera.cpp

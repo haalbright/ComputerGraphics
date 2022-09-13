@@ -1,0 +1,44 @@
+
+
+
+
+Sphere
+Center 0 1 -10
+Radius 2
+M
+hasTexture false
+kD 0.2 0.2 0.9 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+Sphere
+Center 0 11 -10
+Radius 5
+M
+hasTexture false
+kD 0.2 0.2 0.9 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Sphere
+Light
+Type 1
+Position 0 5 -10
+iA 1.0 1.0 1.0 1.0
+iD 1.0 1.0 1.0 1.0
+iS 1.0 1.0 1.0 1.0
+~Light
+Plane
+P 0 -3 0
+N 0 1 0
+M
+hasTexture false
+kD 0.8 0.2 0.8 1.0
+kA 0.1 0.1 0.1 1.0
+kS 0.2 0.2 0.2 1.0
+pS 0.1
+~M
+~Plane
